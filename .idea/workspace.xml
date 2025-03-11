@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbeceeb5-5b6e-4919-8323-a738ead58a24" name="Changes" comment="intento">
+    <list default="true" id="cbeceeb5-5b6e-4919-8323-a738ead58a24" name="Changes" comment="Forma anemica">
+      <change afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tiempo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tiempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tiempo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "paula-agostinelli"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;paula-agostinelli&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/paula-agostinelli/TP0.git",
-    "accountId": "294f6170-bdd4-4c38-8ca7-175192f6c95b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/paula-agostinelli/TP0.git&quot;,
+    &quot;accountId&quot;: &quot;294f6170-bdd4-4c38-8ca7-175192f6c95b&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -50,6 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -81,7 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1741551335482</updated>
       <workItem from="1741551337686" duration="1570000" />
-      <workItem from="1741552960197" duration="7325000" />
+      <workItem from="1741552960197" duration="7572000" />
+      <workItem from="1741729749859" duration="399000" />
     </task>
     <task id="LOCAL-00001" summary="intento">
       <option name="closed" value="true" />
@@ -99,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741610745748</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Forma anemica">
+      <option name="closed" value="true" />
+      <created>1741729567734</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741729567734</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +118,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="intento" />
-    <option name="LAST_COMMIT_MESSAGE" value="intento" />
+    <MESSAGE value="Forma anemica" />
+    <option name="LAST_COMMIT_MESSAGE" value="Forma anemica" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
